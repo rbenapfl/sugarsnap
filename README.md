@@ -11,6 +11,6 @@ Location-based photo-sharing application
 
 
 
-Demo Site: [](http://sugarsnap.herokuapp.com/demo) Click me!
-##(must have somebody upload picture on app nearby you for full Sugarsnap experience)
+[Demo Site!](http://sugarsnap.herokuapp.com/demo)
+######(must have somebody upload picture on app nearby you for full Sugarsnap experience)
 
