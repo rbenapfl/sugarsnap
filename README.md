@@ -4,7 +4,7 @@ Sugarsnap
 
 ##DevBootcamp Final Project
 
-Photo-sharing application that gives users a unique experience of their current area by providing them a live feed of any photos taken and uploaded with the application in their immediate location.
+Photo-sharing application that gives users a unique experience of their current location by providing them a live feed of any photos taken and uploaded with the application in their immediate area.
 
 ###Project Team: Dave Schaaf, Robert Benapfl, Nick Meehan, Rex Suter
 
